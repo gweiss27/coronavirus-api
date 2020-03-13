@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/07cbdc51-6a59-4cf1-8c1c-3b515c9ec8e9/deploy-status)](https://app.netlify.com/sites/coronavirus-api-dashboard/deploys)
+
 ### Code along with React + Next + Hooks API
 
 https://www.youtube.com/watch?v=B85s0cjlitE
