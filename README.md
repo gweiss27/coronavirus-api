@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Code along with React + Next + Hooks API
+
+https://www.youtube.com/watch?v=B85s0cjlitE
+https://github.com/wesbos/rona
 
 ## Available Scripts
 
